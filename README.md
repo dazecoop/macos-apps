@@ -11,7 +11,9 @@
 | [Postman](https://www.postman.com/downloads/) | REST API | N/A | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Postman) |
 | [Itsycal](https://www.mowglii.com/itsycal/) | Menu bar Calendar | [GitHub](https://github.com/sfsam/Itsycal) | ✅ &nbsp;[Yes](https://www.mowglii.com/2021/06/08/apple-silicon-beta.html) |
 | [Hidden](https://itunes.apple.com/app/hidden-bar/id1452453066) | Menu bar hider | [GitHub](https://github.com/dwarvesf/hidden) | ✅ &nbsp;[Yes](https://github.com/dwarvesf/hidden/releases/tag/v1.7) |
-| [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
+| [Docker](https://www.docker.com/products/docker-desktop) | VM | N/A | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Docker) |
+| [Magnet](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) | Window manager | N/A | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Magnet) |
+| [Sync.com](https://www.sync.com/install/) | Cloud storage | N/A | ✅ &nbsp;[Yes](https://www.sync.com/blog/sync-2-0-15-desktop-app-available-macos-big-sur/) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
