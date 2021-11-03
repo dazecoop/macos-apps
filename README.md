@@ -9,7 +9,8 @@
 | [VSCode](https://code.visualstudio.com/download) | IDE | [GitHub](https://github.com/microsoft/vscode) | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Visual%20Studio%20Code) |
 | [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace/releases) | Database | [GitHub](https://github.com/Sequel-Ace/Sequel-Ace) | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Sequel%20Ace) |
 | [Postman](https://www.postman.com/downloads/) | REST API | N/A | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Postman) |
-| [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
+| [Itsycal](https://www.mowglii.com/itsycal/) | Menu bar Calendar | [GitHub](https://github.com/sfsam/Itsycal) | ✅ &nbsp;[Yes](https://www.mowglii.com/2021/06/08/apple-silicon-beta.html) |
+| [Hidden](https://itunes.apple.com/app/hidden-bar/id1452453066) | Menu bar hider | [GitHub](https://github.com/dwarvesf/hidden) | ✅ &nbsp;[Yes](https://github.com/dwarvesf/hidden/releases/tag/v1.7) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
