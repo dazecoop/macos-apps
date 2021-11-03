@@ -14,7 +14,8 @@
 | [Docker](https://www.docker.com/products/docker-desktop) | VM | N/A | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Docker) |
 | [Magnet](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) | Window manager | N/A | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Magnet) |
 | [Sync.com](https://www.sync.com/install/) | Cloud storage | N/A | ✅ &nbsp;[Yes](https://www.sync.com/blog/sync-2-0-15-desktop-app-available-macos-big-sur/) |
-| [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
+| [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstaller | N/A | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/AppCleaner) |
+| [Easy CSV Editor](https://vdt-labs.com/easy-csv-editor/) | xx | N/A | 🤔 I think so |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
 | [x](x) | xx | N/A | ✅ &nbsp;[x](x) |
