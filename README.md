@@ -1,6 +1,6 @@
 # MacOS apps that I use
 
-| App | Description | GitHub | M1? | 
+| App | Description | GitHub | Apple silicon support | 
 |--|--|--|--|
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstaller | N/A| ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/AppCleaner) |
 | [Chrome](https://www.google.com/intl/en_uk/chrome/) | Browser | - | ✅&nbsp; [Yes](https://isapplesiliconready.com/app/Chrome)|
