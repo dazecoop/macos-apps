@@ -5,7 +5,7 @@
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstaller | N/A| ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/AppCleaner) |
 | [Chrome](https://www.google.com/intl/en_uk/chrome/) | Browser | - | ✅&nbsp; [Yes](https://isapplesiliconready.com/app/Chrome)|
 | [Docker](https://www.docker.com/products/docker-desktop)| VM | N/A| ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Docker)|
-| [Easy CSV Editor](https://vdt-labs.com/easy-csv-editor/)| xx | N/A| 🤔 &nbsp;I think so |
+| [Easy CSV Editor](https://vdt-labs.com/easy-csv-editor/)| CSV viewer/editor | N/A| 🤔 &nbsp;I think so |
 | [Fork](https://git-fork.com/)| Git app | - | ✅ &nbsp;[Yes](https://isapplesiliconready.com/app/Fork) |
 | [Hidden](https://itunes.apple.com/app/hidden-bar/id1452453066)| Menu bar hider | [GitHub](https://github.com/dwarvesf/hidden) | ✅ &nbsp;[Yes](https://github.com/dwarvesf/hidden/releases/tag/v1.7) |
 | [Itsycal](https://www.mowglii.com/itsycal/) | Menu bar calendar | [GitHub](https://github.com/sfsam/Itsycal)| ✅ &nbsp;[Yes](https://www.mowglii.com/2021/06/08/apple-silicon-beta.html) |
